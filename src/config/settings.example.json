@@ -1,0 +1,10 @@
+{
+  "max_posts": 12,
+  "request_timeout": 10,
+  "user_agent": "Mozilla/5.0 (compatible; InstagramProfileScraperPro/1.0; +https://bitbash.dev)",
+  "concurrent_requests": 4,
+  "output": {
+    "json": "data/results.json",
+    "csv": "data/results.csv"
+  }
+}
